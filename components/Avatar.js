@@ -59,7 +59,7 @@ const Avatar = () => {
           className="w-full h-full"
         >
           <Image
-            src={"/fbitmoji.png"}
+            src={"/bitmoji.png"}
             fill
             alt="Bitmoji"
             className="object-contain"
