@@ -29,7 +29,7 @@ const Avatar = () => {
         className="relative w-[400px] h-[400px] rounded-full border-accent/20 overflow-hidden"
       >
         <Image
-          src={"/Avatar.jpeg"}
+          src={"/avatar.jpeg"}
           fill
           alt="Profile picture"
           className="object-cover"
