@@ -26,7 +26,7 @@ const HobbySlider = () => {
       title: 'Magician',
       description: 'Stage magic and illusion performances for live audiences',
       poster: '/hthumb.jpeg',
-      video: '/hthumb1.mp4'
+      video: '/hthumb11.mp4'
     },
     {
       title: 'Rubiks cube Solver',
